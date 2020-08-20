@@ -17,9 +17,9 @@ To impart writing skill of C programming to the students and solving problems.
 Type here: The main idea to find sum of digits can be divided in three steps.
 
 Step 1 — Isolate the last digit in number. lastDigit = number % 10.
-The modulo operator (%) returns the remainder of a divison. ...
-Step 2 — Append lastDigit to reverse. reverse = (reverse * 10) + lastDigit. ...
-Step 3-Remove last digit from number. number = number / 10. ...
+The modulo operator (%) returns the remainder of a divison. <br>
+Step 2 — Append lastDigit to reverse. reverse = (reverse * 10) + lastDigit.<br>
+Step 3-Remove last digit from number. number = number / 10.<br>
 Iterate this process. while (number > 0)
 
 
