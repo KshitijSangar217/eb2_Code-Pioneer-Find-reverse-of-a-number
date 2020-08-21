@@ -2,27 +2,14 @@
 
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> C programming Lab
-<b> Experiment|     <b> 2. (KCS-101/KCS-201)	Write A Program to find reverse of a number.
+<b> Lab | <b> Programming for problem Solving Lab
+<b> Experiment|     <b> 2.Write A Program to find reverse of a number.
  
 <h5> Objective : </h5>
+        The major objective is to provide students with understanding of syntax and structure of C-programming.Introduce students to the basic knowledge of programming fundamentals of C language. To be familiar with problem solving techniques using C and To impart writing skill of C programming to the students and solving problems.
 
-To be familiar with syntax and structure of C-programming
-To learn problem solving techniques using C
-To introduce students to the basic knowledge of programming fundamentals of C language. 
-To impart writing skill of C programming to the students and solving problems.
-
-<h5> About the Experiment : Write A Program to find reverse of a number </h5>
-
-The main idea to find sum of digits can be divided in three steps.
-
-Step 1 : Isolate the last digit in number. lastDigit = number % 10.
-The modulo operator (%) returns the remainder of a divison. <br>
-Step 2 : Append lastDigit to reverse. reverse = (reverse * 10) + lastDigit.<br>
-Step 3 : Remove last digit from number. number = number / 10.<br>
-Step 4 : Iterate this process. while (number > 0)
-
-
+<h5> About the Experiment :  </h5>
+The Program takes an input an integer from the user,It uses while loop'within the while loop uses modulo,multiplication and division to find reverse of number
 
 <h5> Target Audience : </h5>
 
@@ -34,6 +21,7 @@ First Year Engineering : C Programming
 
 <h5> Universities Mapped : </h5>
 
+AKTU, Luknow,
 Shivaji University, Kolhapur
 
 <b>Name of Developer | <b> Shivani Kale
@@ -46,7 +34,7 @@ Shivaji University, Kolhapur
 
 <b>Mentored by | <b> Sangeeta Arora
 :--|:--|
-<b> Institute | <b> KIET
+<b> Institute | <b> KIET Group of Institutions ,Delhi-NCR, Meerut Road (NH-58) Ghaziabad
 <b> Email id|     <b> sangeeta.arora@kiet.edu
 <b> Department | Computer Applications
 
