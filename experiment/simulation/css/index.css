@@ -1,0 +1,127 @@
+.header1 {
+	position: absolute;
+	top: 0;bottom: 0;left: 0;right: 0;
+	width: 100%;
+	height: 4vw;
+	font-size: 4vh;
+	padding-top: 1.3vmin;
+}
+.mainContainer {
+    display: grid;
+    grid-template-columns: 46% 46%;
+    grid-column-gap: 20px;
+    color: white;
+    align-content: center;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.inputContainer {
+    display:grid;
+    grid-template-columns: 25% 50% 25%;
+    align-content: center;
+    color: white;
+    background-color: #d4d4d4;
+    padding: 1vw;
+    
+}
+.heading-section {
+    color: black;
+    font-weight: bold;
+    text-align:center;
+    font-size: 1.5vw;
+    font-family: 'Noto Serif', serif;
+}
+.codeExecution{
+    border-radius: 6px;
+    position: relative;
+    width: 100%;
+    
+}
+.codeText {
+    font-size: 1.2em;
+    background-color:#303030;
+    height: 24vw;
+    border-radius: 6px;
+    padding: 6%;
+    
+}
+#codeTextLines{
+    visibility: hidden;
+}
+
+.output-section {
+    background-color:#303030;
+    height: 24vw;
+    border-radius: 6px;
+    padding: 6%;
+    width: 100%
+    
+}
+
+.loc {
+    margin-top: 9px;
+    font-size:1.2vw;
+    
+}
+.loc1{
+    text-align: center;
+}
+
+.nextbtn{
+    visibility: hidden;
+}
+.outputrow{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+#numblock{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    text-align: center;
+    width: 13vw;
+    height: 1vw;
+    line-height: 150%;
+    font-size: 2vw;
+    margin-top: 0%;
+    margin-bottom:5%;
+    padding-bottom: 5%; 
+    background-color: rgb(243, 80, 16);
+    border: solid 9px rgb(243, 80, 16);
+    border-radius: 1.5vw;
+}
+
+#remainderblock{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    text-align: center;
+    width: 13vw;
+    height: 1vw;
+    line-height: 150%;
+    font-size: 2vw;
+    margin-top: 0%;
+    margin-bottom:5%;
+    padding-bottom: 5%;
+    background-color: rgb(71, 170, 5);
+    border: solid 9px rgb(71, 170, 5);
+    border-radius: 1.5vw;
+}
+#reverse_num_block{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    text-align: center;
+    width: 13vw;
+    height: 1vw;
+    line-height: 150%;
+    font-size: 2vw;
+    margin-top: 0%;
+    margin-bottom:5%;
+    padding-bottom: 5%;
+    background-color: rgb(24, 84, 216);
+    border: solid 9px rgb(24, 84, 216);
+    border-radius: 1.5vw;
+}
