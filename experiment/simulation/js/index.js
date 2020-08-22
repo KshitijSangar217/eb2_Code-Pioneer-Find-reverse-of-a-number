@@ -52,7 +52,7 @@ function executeCode(){
     
     if(line_no=='line4')
     {
-        document.getElementById('numblock').innerHTML = num;
+        document.getElementById('numblock').innerHTML = 0;
         document.getElementById('numblock').style.borderColor = "white";
         document.getElementById('remainderblock').style.borderColor = "white";
         document.getElementById('reverse_num_block').style.borderColor = "white";
@@ -74,7 +74,7 @@ function executeCode(){
         document.getElementById('submitbtn').style.visibility = 'visible';
         document.getElementById('inputno').style.visibility = 'visible';
         document.getElementById('startbtn').style.visibility = "hidden"; 
-        document.getElementById('numblock').innerHTML = num;
+        document.getElementById('numblock').innerHTML = 0;
     }
     if(line_no=='line7')
     {
