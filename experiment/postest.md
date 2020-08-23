@@ -1,7 +1,11 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
+Q 1. Choose correct C while loop syntax.<br>
+<b><pre>a. while(condition)
+{
+    //statements
+}
+<br></b></pre>
 b. There will be interference fringe<br>
 c. colored fringes will be observed<br>
 d. None of the options<br><br>
