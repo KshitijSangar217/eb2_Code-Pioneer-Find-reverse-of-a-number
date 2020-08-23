@@ -80,9 +80,7 @@ link to flow chart Here : Store in the  /flowchart folder within Round2 folder i
 (guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
 
 ### 4. Mindmap:
-<img src="mindmap/reverse_kshitij.JPG"/>
- Link to mindmap here : <a href="mindmap_reverse_of_number.pdf"> HERE </a>
- <br>
+<img src="mindmap/reverse-num.JPG"/>
 
 ### 5. Storyboard :
 Storyboard: <a href="storyboard/reverse_num.gif"> HERE </a>
