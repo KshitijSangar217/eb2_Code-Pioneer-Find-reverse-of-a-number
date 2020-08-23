@@ -48,25 +48,32 @@ function executeCode(){
     if(line_no == 'line2')
     {
         document.getElementById('line1comment').style.visibility = 'hidden';
+        document.getElementById('line2comment').style.visibility = 'visible';
+    }
+    if (line_no=='line3') 
+    {
+        document.getElementById('line2comment').style.visibility = 'hidden';
     }
     
     if(line_no=='line4')
     {
+        document.getElementById('line4comment').style.visibility = 'visible';
         document.getElementById('numblock').innerHTML = 0;
         document.getElementById('numblock').style.borderColor = "white";
         document.getElementById('remainderblock').style.borderColor = "white";
         document.getElementById('reverse_num_block').style.borderColor = "white";
         document.getElementById('output-section').style.visibility = visible;
     }
-    if(line_no=='line5')
+    if(line_no=='line5')  //printf
     {
         //hide every border
+        document.getElementById('line4comment').style.visibility = 'hidden';
         document.getElementById('line5comment').style.visibility = 'visible';
         document.getElementById('remainderblock').style.borderColor = "rgb(71, 170, 5)";
-        document.getElementById('sumblock').style.borderColor = "rgb(24, 84, 216)";
-        document.getElementById('numblock').style.borderColor = "rgb(243, 80, 16)";
+        document.getElementById('reverse_num_block').style.borderColor = "rgb(243, 80, 16)";
+        document.getElementById('numblock').style.borderColor = "#546b9c";
     }
-    if(line_no=='line6')
+    if(line_no=='line6')  //scanf
     {
         document.getElementById('line5comment').style.visibility = 'hidden';
         document.getElementById('line6comment').style.visibility = 'visible';
@@ -76,17 +83,33 @@ function executeCode(){
         document.getElementById('startbtn').style.visibility = "hidden"; 
         document.getElementById('numblock').innerHTML = 0;
     }
-    if(line_no=='line7')
+    if(line_no=='line7') // while
     {
         document.getElementById('numblock').style.borderColor = "white";
         document.getElementById('line6comment').style.visibility = 'hidden';
+        document.getElementById('remainderblock').style.borderColor = "rgb(71, 170, 5)";
+        document.getElementById('reverse_num_block').style.borderColor = "rgb(243, 80, 16)";
+        if(num>0)
+        {
+            document.getElementById('numblock').style.borderColor = 'green';
+            document.getElementById('line7comment').innerHTML = 'Condition is true so entering while loop';
+            document.getElementById('line7comment').style.visibility = 'visible';
+        }
+        else
+        {
+            document.getElementById('numblock').style.borderColor = '#f50000';
+            document.getElementById('line7comment').innerHTML = 'Condition is false so exiting while loop';
+            document.getElementById('line7comment').style.visibility = 'visible';
+            lineCount=13;
+        }
     }
-    if(line_no=='line8')
+    if(line_no=='line8') // {
     {
         //document.getElementById('numblock').style.borderColor = "rgb(243, 80, 16)";
-        document.getElementById('numblock').style.borderColor = "rgb(243, 80, 16)";
+        document.getElementById('line7comment').style.visibility = 'hidden';
+        document.getElementById('numblock').style.borderColor = "#546b9c";
         document.getElementById('remainderblock').style.borderColor = "rgb(71, 170, 5)";
-        document.getElementById('reverse_num_block').style.borderColor = "rgb(24, 84, 216)";
+        document.getElementById('reverse_num_block').style.borderColor = "rgb(243, 80, 16)";
         document.getElementById('output-section').style.visibility = visible;
     }
     if(line_no=='line9')
@@ -103,7 +126,7 @@ function executeCode(){
         document.getElementById('reverse_num_block').innerHTML = reverse_num;
         document.getElementById('remainderblock').style.borderColor = "rgb(71, 170, 5)";
         document.getElementById('reverse_num_block').style.borderColor = "white";
-        document.getElementById('numblock').style.borderColor = "rgb(243, 80, 16)";
+        document.getElementById('numblock').style.borderColor = "#546b9c";
     }
     if(line_no=='line11')
     {
@@ -118,24 +141,18 @@ function executeCode(){
         document.getElementById('numblock').innerHTML = num;
         document.getElementById('numblock').style.borderColor = "white";
         document.getElementById('remainderblock').style.borderColor = "rgb(71, 170, 5)";
-        document.getElementById('reverse_num_block').style.borderColor = "rgb(24, 84, 216)";
+        document.getElementById('reverse_num_block').style.borderColor = "rgb(243, 80, 16)";
     }
     
     if(line_no=='line13')
     {
-        document.getElementById('numblock').style.borderColor = "rgb(243, 80, 16)";
-        if(num>0)
-        {
-            lineCount=6;
-        }
-        else
-        {
-            lineCount=13;
-        }
+        document.getElementById('numblock').style.borderColor = "#546b9c";
+        lineCount=6;
     }
     if(line_no =='line14')
     {
         //document.getElementById('demo-output').innerHTML = sum;
+        document.getElementById('line7comment').style.visibility = 'hidden';
         document.getElementById('reverse_num_block').style.borderColor = "#FFD700";
         document.getElementById('reverse_num_block').style.backgroundColor = "#FFD700";
         document.getElementById('reverse_num_block').style.color = "black";
