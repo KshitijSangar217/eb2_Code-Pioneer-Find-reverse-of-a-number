@@ -90,23 +90,48 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "In the following loop construct, which one is executed only once always.
+    for(exp1; exp2; exp3)",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "exp1",                  ///// Write the option 1 inside double quotes
+        b: "exp3",                  ///// Write the option 2 inside double quotes
+        c: "exp1 and exp3",                  ///// Write the option 3 inside double quotes
+        d: "exp1, exp2 and exp3"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "The continue statment cannot be used with",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "for",                  ///// Write the option 1 inside double quotes
+        b: "while",                  ///// Write the option 2 inside double quotes
+        c: "do while",                  ///// Write the option 3 inside double quotes
+        d: "switch"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    									                  ///// this line
+    
+    {
+     question: "Which keyword can be used for coming out of recursion?",  ///// Write the question inside double quotes
+      answers: {
+        a: "return",                  ///// Write the option 1 inside double quotes
+        b: "break",                  ///// Write the option 2 inside double quotes
+        c: "exit",                  ///// Write the option 3 inside double quotes
+        d: "both A and B"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    									                  ///// this line
+    
+    {
+     question: "goto can be used to jump from main to within a function?",  ///// Write the question inside double quotes
+      answers: {
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False",                  ///// Write the option 2 inside double quotes
+        //c: "Option 3",                  ///// Write the option 3 inside double quotes
+        //d: "Option 4"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
