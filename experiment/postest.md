@@ -1,7 +1,7 @@
 ## Post test
 <br>
 Q 1. Choose correct C while loop syntax.<br>
-<b><pre>a. while(condition)
+<b>a.<pre> while(condition)
 {
     //statements
 }
