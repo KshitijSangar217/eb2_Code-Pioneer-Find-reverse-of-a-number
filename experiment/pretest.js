@@ -90,8 +90,7 @@
 
   const myQuestions = [
     {
-      question: "In the following loop construct, which one is executed only once always.
-    for(exp1; exp2; exp3)",  ///// Write the question inside double quotes
+      question: "In the following loop construct, which one is executed only once always.for(exp1; exp2; exp3)",  ///// Write the question inside double quotes
       answers: {
         a: "exp1",                  ///// Write the option 1 inside double quotes
         b: "exp3",                  ///// Write the option 2 inside double quotes
