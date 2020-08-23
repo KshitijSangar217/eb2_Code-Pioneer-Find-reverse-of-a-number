@@ -72,5 +72,5 @@ While learning C you will learn all the fundamental concepts of the programming 
 <img src="mindmap/reverse-num.JPG"/>
 
 ### 5. Storyboard :
-Storyboard: <a href="storyboard/reverse_num.gif"> HERE </a>
+Storyboard: <a href="storyboard/storyboard_reverse_num.gif"> HERE </a>
 
