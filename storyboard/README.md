@@ -37,6 +37,7 @@ B.2<br>
 **C.3**<br>
 D.4<br><br><br>
 
+Q<br>
 <pre>
 #include<stdio.h>
 main() {
