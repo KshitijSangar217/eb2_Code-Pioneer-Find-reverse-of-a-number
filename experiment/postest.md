@@ -1,11 +1,11 @@
 ## Post test
 <br>
 Q 1. Choose correct C while loop syntax.<br>
-<b>a.<pre> while(condition)
+a.<pre> while(condition)
 {
     //statements
 }
-<br></b></pre>
+<br></pre>
 b. 
 <pre>{
     //statements
@@ -16,19 +16,39 @@ c.
     //statements
 }</pre><br>
 d. 
-<pre>while()
+<b><pre>while()
 {
     if(condition)
     {
         //statements
     }
-}</pre><br>
+}</pre></b><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
+Q 2.Choose a correct C for loop syntax.<br>
+<b>a.for(initalization; condition; incrementoperation)
+{
+    //statements
+}
+
+<br></b></pre>
+b. 
+for(declaration; condition; incrementoperation)
+{
+    //statements
+}
+</pre><br>
+c. 
+<pre>for(declaration; incrementoperation; condition)
+{
+    //statements
+}
+</pre><br>
+d. 
+<prefor(initalization; condition; incrementoperation;)
+{
+    //statements
+}
+</pre><br>
 
 Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
 <b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
