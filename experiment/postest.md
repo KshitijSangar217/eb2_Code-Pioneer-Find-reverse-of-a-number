@@ -50,11 +50,24 @@ d.
 }
 </pre><br>
 
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
+Q 3.What is the output of C Program.? 
+<pre>int main()
+{
+    int a=5;
+    
+    while(a==5)    
+    {
+        printf("RABBIT");
+        break;
+    }
+ 
+    return 0;
+}<pre>
+<br>
+a. RABBIT is printed unlimited number of times<br>
+<b>b. RABBIT<br></b>
+c. Compiler error<br>
+d. None of the above.<br>
 
 Q 4. Colours observed in thin film are because of ________________<br>
 a. Diffraction<br>
