@@ -6,9 +6,23 @@ Q 1. Choose correct C while loop syntax.<br>
     //statements
 }
 <br></b></pre>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+b. 
+<pre>{
+    //statements
+}while(condition)</pre><br>
+c. 
+<pre>while(condition);
+{
+    //statements
+}</pre><br>
+d. 
+<pre>while()
+{
+    if(condition)
+    {
+        //statements
+    }
+}</pre><br>
 
 Q 2. What will happen, if sodium light is replaced with white light?<br>
 a. There will be no interference fringe<br>
