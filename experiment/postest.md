@@ -25,14 +25,14 @@ d.
 }</pre></b><br>
 
 Q 2.Choose a correct C for loop syntax.<br>
-<b>a.for(initalization; condition; incrementoperation)
+<b>a.<>prefor(initalization; condition; incrementoperation)
 {
     //statements
 }
 
 <br></b></pre>
 b. 
-for(declaration; condition; incrementoperation)
+<pre>for(declaration; condition; incrementoperation)
 {
     //statements
 }
@@ -44,7 +44,7 @@ c.
 }
 </pre><br>
 d. 
-<prefor(initalization; condition; incrementoperation;)
+<pre>for(initalization; condition; incrementoperation;)
 {
     //statements
 }
