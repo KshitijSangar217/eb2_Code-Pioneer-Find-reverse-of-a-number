@@ -35,18 +35,8 @@ Q How many types of loop are avilable in C Program?<br>
 A.1<br>
 B.2<br>
 **C.3**<br>
-D.4<br><br>
+D.4<br><br><br>
 
- <pre>
- #include <stdio.h>
- int main()
-{
-    int i = 1024;
-    for (; i; i >>= 1)
-        printf("GeeksQuiz");
-    return 0;
-}
-</pre>
 <pre>
 #include<stdio.h>
 main() {
@@ -64,9 +54,9 @@ C. 23<br>
 D. 34<br><br>
 
 ##### 2.5 Allow pitfalls:
-Do we use semicolon in While loop?
-A. Yes
-B. No
+Do we use semicolon in While loop? <br>
+A. Yes <br>
+**B. No** <br>
 ##### 2.6 Conclusion:
 While learning C you will learn all the fundamental concepts of the programming realm. To learn these fundamental concepts there are some standard programs which when implemented give us a brief understanding of all the concepts in a practical way. C program to reverse a number is one of them which gives the learner a deep understanding of While loop and the Arithmetic operators.Answering the assessment questions will take about 5 min. Thus the total time required to perform the experiment will require around 10 minutes.
 
