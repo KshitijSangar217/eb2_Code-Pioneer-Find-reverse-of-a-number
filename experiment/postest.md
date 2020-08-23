@@ -62,22 +62,34 @@ Q 3.What is the output of C Program.?
     }
  
     return 0;
-}<pre>
+}</pre>
 <br>
 a. RABBIT is printed unlimited number of times<br>
 <b>b. RABBIT<br></b>
 c. Compiler error<br>
 d. None of the above.<br>
 
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
+Q 4. What is the output of C Program.? 
+<pre>int main()
+{
+    int a=5;
+    
+    while(a >= 3);
+    {
+        printf("RABBIT\n");
+        break;
+    }
+    printf("GREEN");
+    
+    return 0;
+}</pre>
+<br>
+a. GREEN<br>
+<b><pre>b.  RABBIT 
+ 
+GREEN</pre>
+<br></b>
+c. RABBIT is printed infinite times<br>
+d. None of the above<br>
 
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>
+
