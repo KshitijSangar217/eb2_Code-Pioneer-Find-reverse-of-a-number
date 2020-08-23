@@ -7,7 +7,7 @@
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for Problem Solving Lab 
-<b> Experiment|     <b> 1. Write a Program to find sum of digits of a entered number
+<b> Experiment|     <b> 1. Write a Program to reverse a number
 
 
 <h4> [1. Focus Area](#LO)
