@@ -65,7 +65,7 @@ While learning C you will learn all the fundamental concepts of the programming 
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart-reverse-digits-num.jpg"/><br>
+<img src="flowchart/flowchart-reverse-digits-num.png"/><br>
 <br>
 
 ### 4. Mindmap:
