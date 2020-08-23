@@ -1,7 +1,5 @@
 ## Introduction (Round 0)
 
-## Introduction (Round 0)
-
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Programming for problem Solving Lab
