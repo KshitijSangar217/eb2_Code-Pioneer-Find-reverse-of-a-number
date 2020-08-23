@@ -97,7 +97,7 @@
               //statements
             }",                        ///// Write the option 1 inside double quotes
         b: "{
-    /         /statements
+                //statements
              }while(condition)",                  ///// Write the option 2 inside double quotes
         c: "while(condition);
             {
@@ -156,6 +156,31 @@
         b: "RABBIT",                  ///// Write the option 2 inside double quotes
         c: "Compiler error",                  ///// Write the option 3 inside double quotes
         d: "None of the above."                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    }, 
+    
+    
+    {
+      question: "What is the output of C Program.?  
+                  int main()
+                  {
+                      int a=5;
+
+                      while(a=123)    
+                      {
+                          printf("RABBIT\n");
+                          break;
+                      }
+                      printf("GREEN");
+
+                      return 0;
+                  }",  ///// Write the question inside double quotes
+      answers: {
+        a: "GREEN",                  ///// Write the option 1 inside double quotes
+        b: "RABBIT GREEN",                  ///// Write the option 2 inside double quotes
+        c: "RABBIT is printed unlimited number of times.",                  ///// Write the option 3 inside double quotes
+        d: "Compiler error."                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     }, 
