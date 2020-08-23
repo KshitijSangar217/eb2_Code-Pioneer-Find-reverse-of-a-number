@@ -25,7 +25,7 @@ d.
 }</pre></b><br>
 
 Q 2.Choose a correct C for loop syntax.<br>
-<b>a.<>prefor(initalization; condition; incrementoperation)
+<b>a.<pre>for(initalization; condition; incrementoperation)
 {
     //statements
 }
