@@ -46,11 +46,12 @@ D.4<br><br>
         printf("GeeksQuiz");
     return 0;
 }
+</pre>
 <pre>
 #include<stdio.h>
 main() {
-   int n=4576, sum = 0;
-  for(; n > 0; sum += n%10, n/= 10) {
+  int n=4576, sum = 0;
+  for( n > 0; sum += n%10, n/= 10) {
    }
    printf("The sum of digits: %d", sum);
 }
