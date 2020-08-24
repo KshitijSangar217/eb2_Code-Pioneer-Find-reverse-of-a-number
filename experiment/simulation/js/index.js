@@ -22,7 +22,6 @@ function getno(){
         }
         else{
             alert('Invalid Number');
-            window.location.reload();
         }  
     }
 
