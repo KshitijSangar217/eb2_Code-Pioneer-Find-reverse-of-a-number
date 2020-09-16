@@ -1,4 +1,4 @@
-## <b> Pre-test
+## Pre-test
 #### Please attempt the following questions
 
 1) In the following loop construct, which one is executed only once always.<br>for(exp1; exp2; exp3)<br>
