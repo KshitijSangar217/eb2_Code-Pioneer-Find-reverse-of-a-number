@@ -12,18 +12,41 @@ while loop is a control flow statement that allows code to be executed repeatedl
 6.After excection it will show "Execution Completed" and result is shown in Reverse_Number variable<br>
 
 ### Pre Test
-1) How many times while loop  will excute if condition is false <br>
-<b>a)0 time<br></b>
+1) How many times do while loop will excute if condition is false <br>
+<b>a)1 time<br></b>
 b) 2 times<br>
 c) infinite<br>
 d) finite<br>
 
-2) when the while loop variable is initialized? <br>
-a) before main<br>
-b) after printf()<br>
-c) no initialization required<br>
-<b>d) before using while loop and at the time of variable inintialization<br></b>
+2) How many times the initialisation statement in for loop is executed<br>
+a) as many times as loop iterates<br>
+b) twice<br>
+<b>c)once<br></b>
+d) None of the above<br>
 
+3) In printf, the format %i is used for? <br>
+<b>a) int</b><br>
+b) char<br>
+c) float<br>
+d) None of the above<br>
+
+4) What is the size of int data type?<br>
+a) 2 Bytes<br>
+b) 4 Bytes<br>
+c) 1 Bytes<br>
+<b>d) Depends on system/compiler </b><br>
+
+5) Which of the data type does not have a fixed size?<br>
+a) int<br>
+b) char<br>
+<b>c) struct</b><br>
+d) None of the above<br>
+
+6) which of the following is valid C statement?<br>
+a) char sample var = 'a';<br>
+<b>b) char sample_var = 'a';<br></b>
+c) char $sample_var= 'a';<br>
+d) None of the above<br>
 ### Post Test
 <br>
 Q 1. Choose correct C while loop syntax.<br>
