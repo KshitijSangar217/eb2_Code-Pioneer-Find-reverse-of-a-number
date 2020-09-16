@@ -21,7 +21,7 @@ d) finite<br>
 2) How many times the initialisation statement in for loop is executed<br>
 a) as many times as loop iterates<br>
 b) twice<br>
-<b>c)once<br></b>
+<b>c) once<br></b>
 d) None of the above<br>
 
 3) In printf, the format %i is used for? <br>
