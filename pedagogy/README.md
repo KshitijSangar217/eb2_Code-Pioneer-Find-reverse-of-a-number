@@ -59,7 +59,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-
-1.|<br>Interpret flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br> What is symbol used to find remainder?<br> A. $ <br><b> B.%</b><br> C./ <br> D.*| <br>
+1.|<br>Interpret flow  of program execution| <br> On the simulator , comments will be shown to students to understand the flow  |<br> Scanf() is used to take_______ from user?<br> A. $ <br><b> B.%</b><br> C./ <br> D.*| <br>
 2.|<br> Make use of the concept of loop | <br>On the simulator screen, step by step excution of program will be shown| <br> When does the code block following while (x>100) execute?<br> A. When x is less than one hundred<br> <b> B. When x is greater than one hundred </b><br> C. When x is equal to one hundred<br>  D. While it wishes |<br> 
 
 <div align="right">
