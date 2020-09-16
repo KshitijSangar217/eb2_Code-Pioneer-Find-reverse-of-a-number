@@ -12,20 +12,20 @@ After simulation starts,student will see code.Student will start execution while
 
 #### 2.1 Set the Visual Stage Description:
 
-When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade) with title in top center "REVERSE OF NUMBER ". On this canvas START button is seen to start program.Once START button is clicked button will turned to "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning . when user click on "NEXT" execution will start and when scanf  statement is reached input box will be shown infront of the input statment.After giving input and clicking SUBMIT,It will change to NEXT button again. In Output Functioning box ,values of variables "Reverse Number","Remainder" and Number will be displayed. Code will appear on code execution block on left side.
+When the student visits the link of the simulator page, he sees canvas of screen size (light orange shade) with title in top center "REVERSE OF NUMBER ". On this canvas START button is seen to start program.Once START button is clicked button will turned to "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning . when user click on "NEXT" execution will start and when scanf  statement is reached input box will be shown infront of the input statment.After giving input and clicking SUBMIT,It will change to NEXT button again. In Output Functioning box ,values of variables "Reverse Number","Remainder" and "Number" will be displayed. Code will appear on code execution block on left side.
 
 #### 2.2 Set User Objectives & Goals:
 1. To understand application of while loop in program.How while loop executes when condition will be true and false.
-2. To apply concept of while loop by adding Digits of a number in the program.
+2. To apply concept of while loop by reversing number in the program.
 
 
 #### 2.3 Set the Pathway Activities:
 1. Click on the button “START”. It takes to simulation screen.
-2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Sum" with initialzed value to zero in right block will appear.
+2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Reverse Number" with initialzed value to zero in right block will appear.
 4. Click on "next" button for executing step by step instruction , user will get comments with every instruction executed.
 5. Input box will appear in front of scanf instruction for input to be given, and "Next" button will convert to "SUBMIT" button.
-6. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Sum"
-5. After excection it will show "Execution Completed" and result in Sum variable.
+6. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Reverse Number"
+5. After excection it will show "Execution Completed" and result in Reverse Number variable.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
