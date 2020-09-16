@@ -13,7 +13,7 @@ while loop is a control flow statement that allows code to be executed repeatedl
 
 ### Pre Test
 1) How many times do while loop will excute if condition is false <br>
-<b>a)1 time<br></b>
+<b>a) 1 times<br></b>
 b) 2 times<br>
 c) infinite<br>
 d) finite<br>
