@@ -30,17 +30,17 @@ b) char<br>
 c) float<br>
 d) None of the above<br>
 
-4) What is the size of int data type?<br>
-a) 2 Bytes<br>
-b) 4 Bytes<br>
-c) 1 Bytes<br>
-<b>d) Depends on system/compiler </b><br>
+4) C was orginally devloped for<br>
+a) AI langauge<br>
+b) Data Science langauge<br>
+c) General purpose language<br>
+<b>d) System programming language </b><br>
 
-5) Which of the data type does not have a fixed size?<br>
-a) int<br>
-b) char<br>
-<b>c) struct</b><br>
-d) None of the above<br>
+5) C variable cannot start with <br>
+a) an underscore<br>
+b) an alphabet<br>
+<b>c) A special symbol</b><br>
+d) capital letter<br>
 
 6) which of the following is valid C statement?<br>
 a) char sample var = 'a';<br>
@@ -48,98 +48,42 @@ a) char sample var = 'a';<br>
 c) char $sample_var= 'a';<br>
 d) None of the above<br>
 ### Post Test
-<br>
-Q 1. Choose correct C while loop syntax.<br>
-a.<pre> while(condition)
-{
-    //statements
-}
-<br></pre>
-b. 
-<pre>{
-    //statements
-}while(condition)</pre><br>
-c. 
-<pre>while(condition);
-{
-    //statements
-}</pre><br>
-d. 
-<b><pre>while()
-{
-    if(condition)
-    {
-        //statements
-    }
-}</pre></b><br>
+1) What is the size of int data type?<br>
+a) 2 Bytes<br>
+b) 4 Bytes<br>
+c) 1 Bytes<br>
+<b>d) Depends on system/compiler </b><br>
 
-Q 2.Choose a correct C for loop syntax.<br>
-<b>a.<pre>for(initalization; condition; incrementoperation)
-{
-    //statements
-}
+2) Which of the data type does not have a fixed size?<br>
+a) int<br>
+b) char<br>
+<b>c) struct</b><br>
+d) None of the above<br>
 
-<br></b></pre>
-b. 
-<pre>for(declaration; condition; incrementoperation)
-{
-    //statements
-}
-</pre><br>
-c. 
-<pre>for(declaration; incrementoperation; condition)
-{
-    //statements
-}
-</pre><br>
-d. 
-<pre>for(initalization; condition; incrementoperation;)
-{
-    //statements
-}
-</pre><br>
+3) which function of the following C program must contain?<br>
+a) printf()<br>
+b) scanf()<br>
+<b>c) main()</b><br>
+d) system()<br>
 
-Q 3.What is the output of C Program.? 
-<pre>int main()
-{
-    int a=5;
-    
-    while(a==5)    
-    {
-        printf("RABBIT");
-        break;
-    }
- 
-    return 0;
-}</pre>
-<br>
-a. RABBIT is printed unlimited number of times<br>
-<b>b. RABBIT<br></b>
-c. Compiler error<br>
-d. None of the above.<br>
+4) which of the following is not a valid data type<br>
+a) int<br>
+b) char<br>
+<b>c) real</b><br>
+d) float<br>
 
-Q 4. What is the output of C Program.? 
-<pre>int main()
-{
-    int a=5;
-    
-    while(a >= 3);
-    {
-        printf("RABBIT\n");
-        break;
-    }
-    printf("GREEN");
-    
-    return 0;
-}</pre>
-<br>
-a. GREEN<br>
-<b><pre>b.  RABBIT 
- 
-GREEN</pre>
-<br></b>
-c. RABBIT is printed infinite times<br>
-d. None of the above<br>
+5) C pre processor does<br>
+a) conditional compilation<br>
+b) includes header files<br>
+c) take care of macros<br>
+<b>d) All of the above</b><br>
+
+6) In which stage the content of header files get inserted into code?<br>
+a) During execution<br>
+b) During linking<br>
+<b>c) During pre-processing</b><br>
+d) None of the above<br>
+
 ### References
 Textbooks:
 
