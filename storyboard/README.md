@@ -46,7 +46,7 @@ The simulation will make student  to understand and predict the behavior of whil
 <br>
 
 ### 4. Mindmap:
-<img src="mindmap/reverse-num.JPG"/>
+<img src="mindmap/reverse_of_a_number.JPG"/>
 
 ### 5. Storyboard :
 Storyboard: <a href="storyboard/storyboard_reverse_num.gif"> HERE </a>
