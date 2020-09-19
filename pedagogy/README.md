@@ -18,16 +18,16 @@
 <hr>
 
 <a name="LO"></a></b>
-#### 1. Focus Area : Reinforce theroretical concept
-The students know the concept of application of modulo operater and loops. They will experiment  logic written in code by applying  input, trial and error and learn from it, finally analyzing results with standard value.
+#### 1. Focus Area : Reinforce theoretical concept
+The students know the concept of application of modulo operater and loops. They will experiment the logic written in the code by applying the input, trial and error, and learn from it. Finally analyzing the results with standard values.
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Interpret flow  of program execution <br> | Understand | Interpret
-2.| User will be able to: <br>Make use of the concept of loop  <br>| Apply | Make use of
+1.| User will be able to: <br>Interpret flow  of program execution.<br> | Understand | Interpret
+2.| User will be able to: <br>Make use of the concept of loop  <br>.| Apply | Make use of
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -75,7 +75,8 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student will click on START Simulation tab <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
-2.| Student will press Next Button <br> | Simulator excutes Instructions step by step <br> | Introduction of code and accepting of input
-3.| Student will press "Submit" button <br> | Simulator displays values of Reverse number , Remainder and number with every instruction executed<br> | Understanding of while loop excution.
+1.| Student will click on "START" button <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
+2.| Student will press "NEXT" Button <br> | Simulator executes the instructions step by step till the end of the program<br> | Introduce and simulate the changes in the code visually.
+3.| Student will enter a Number in the text box appeared, and click on "Submit" button <br> | Simulator will take in the input number, reappear the "NEXT" button and constantly display the inputted value at the top.<br> | Reading the input value from the user.
+4.| Student will click on "OK" button when the alert named "Simulation completed", pop-up on the screen.| Simulator will be resetted to the start. | To notify the student regarding completion of the simulation and to reset the simulator.
 
