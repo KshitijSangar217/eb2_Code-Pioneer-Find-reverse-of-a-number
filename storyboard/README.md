@@ -3,12 +3,11 @@
 Experiment 2 : write a program to reverse a number
 
 ### 1. Story Outline:
-The Experiment is based on loops. Loops are used when a block of code needs to be executed several number of times. In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on.Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.Programming languages provide various control structures that allow for more complicated execution paths.
-It shows step by step instruction execution of program to understand the what each statement in program is performing.To reverse a number,simulator takes an integer input from the user. Then the while loop is used until n != 0 is false (0).In each iteration of the loop, the remainder when n is divided by 10 is calculated and the value of n is reduced by 10 times.Inside the loop, the reversed number is computed using:rev = rev*10 + remainder.
+To find the reverse of number "While loop" is used.The reverse of number is obtained with the help of remainder and modulo division operator using while loop. 
 
 ### 2. Story:
 
-After simulation starts,student will see code.Student will start execution while executing it shows message to user about every statemt. when scanf statement executes user will input a number.It is Stored  in variable number.To reverse the number while loop is executed. in loop to get last digit modulo division the number by 10 i.e. lastDigit = num % 10 will be executed. Then the while loop is used until n != 0 is false (0).In each iteration of the loop, the remainder when n is divided by 10 is calculated and the value of n is reduced by 10 times.Inside the loop, the reversed number is computed using:rev = rev*10 + remainder.
+After simulation starts,student will see code.Student will start execution while executing it shows message to user about every statemt. when scanf statement executes user will input a number.It is Stored  in variable "num".To reverse the number while loop is executed. in loop to get last digit modulo division the number by 10 i.e. lastDigit = num % 10 will be executed. Then the while loop is used until number is greater than.In each iteration of the loop, the remainder when number is divided by 10 is calculated and the value of number is reduced by 10 times.Inside the loop, the reversed number is computed using:rev = rev*10 + remainder.
 
 #### 2.1 Set the Visual Stage Description:
 
@@ -20,12 +19,8 @@ When the student visits the link of the simulator page, he sees canvas of screen
 
 
 #### 2.3 Set the Pathway Activities:
-1. Click on the button “START”. It takes to simulation screen.
-2. "START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Reverse Number" with initialzed value to zero in right block will appear.
-4. Click on "next" button for executing step by step instruction , user will get comments with every instruction executed.
-5. Input box will appear in front of scanf instruction for input to be given, and "Next" button will convert to "SUBMIT" button.
-6. After submitting input, SUBMIT turns to Next and program will execute step by step showing changes of the values in Variable names "Number","Remainder","Reverse Number"
-5. After excection it will show "Execution Completed" and result in Reverse Number variable.
+-The simulator will show step by step execution of program for every line of code by displaying comments explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
+-As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.The changes in values of variables also shown by highlighting the border of boxes in the simulator.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
@@ -33,15 +28,15 @@ When the student visits the link of the simulator page, he sees canvas of screen
 NA
 
 ##### 2.5 Allow pitfalls:
-This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.If the student kept input blank or entered input greater than interger range, it will display message invalid input and try again.
+This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.If the student kept input blank or entered input greater than 10 digits, it will display message invalid input and try again.
 
 ##### 2.6 Conclusion:
-The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know the standard flowchart representation for while loops.They will understand standard pseudocode representation for while loops and they will get to Know how to indent while loops to make them readable.
+The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know flow of excution for while loop.
 
 ##### 2.7 Equations/formulas: NA
 
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="flowchart/flowchart-reverse-digits-num.png"/><br>
 <br>
 
