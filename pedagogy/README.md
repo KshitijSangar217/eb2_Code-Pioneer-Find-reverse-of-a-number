@@ -1,7 +1,6 @@
 ## Pedagogy (Round 1)
 <p align="center">
 <br>
-<b> Programming for Problem Solving Lab</b>  <a name="top"></a> <br>
 </p>
 
 <b>Discipline</b> | <b>Computer Science and Engineering</b>
@@ -19,7 +18,10 @@
 
 <a name="LO"></a></b>
 #### 1. Focus Area : Reinforce theoretical concept
+<div align="justify">
 The students know the concept of application of modulo operater and loops. They will experiment the logic written in the code by applying the input, trial and error, and learn from it. Finally verifying the results with any numbered values
+</div>
+
 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -43,7 +45,10 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b></u>
 <br>
-Students will get to know declaration and initialization of variables . They will able to get  logic of program by sequential execution of instruction. How Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered when condition is met.After understanding  the experiment, student shall give answer to the questions asked.
+<div align="justify">
+Students will get to know declaration and initialization of variables . They will able to get  logic of program by sequential execution of instruction. How Input value will be put in the formula which inturn runs in loop. Finally program will give the sum of digits of number entered when condition is met.After understanding  the experiment, student shall give answer to the questions asked.   
+</div>
+
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -74,9 +79,9 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
-:--|:--|:--|:--:
-1.| Student will click on "START" button <br> | Simulator opens the experiment screen <br> | To open screen to perform experiment.
-2.| Student will press "NEXT" Button <br> | Simulator executes the instructions step by step till the end of the program<br> | Introduce and simulate the changes in the code visually.
-3.| Student will enter a Number in the text box appeared, and click on "Submit" button <br> | Simulator will take in the input number, reappear the "NEXT" button and constantly display the inputted value at the top.<br> | Reading the input value from the user.
-4.| Student will click on "OK" button when the alert named "Simulation completed", pop-up on the screen.| Simulator will be resetted to the start. | To notify the student regarding completion of the simulation and to reset the simulator.
+:--|:--|:--|:--
+1.| Student sees the program. <br> | Simulator will display the code <br> | To understand the code.
+2.| Student sees the step by step execution of the program. <br> | Simulator executes the instructions step by step till the end of the program<br> | To show the step by step execution.
+3.| Student inputs a number within the program execution <br> | Simulator takes in the input number.<br> | Reading the input value from the user.
+4.| Student sees the execution flow of the loop to find the reverse of a number| Simulator execute the loop. | To notify the student regarding the result of the program and to reset the simulator.
 
