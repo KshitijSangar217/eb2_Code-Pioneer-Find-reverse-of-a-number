@@ -32,7 +32,7 @@ NA
 This pitfall does not mean wrong answer and retrying. It is designed to clear misconceptions or incorrect knowledge.Pitfalls are used to check the attention of program by the student.If the student kept input blank or entered input greater than 10 digits, it will display message invalid input and try again.
 
 ##### 2.6 Conclusion:
-The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know flow of excution for while loop.
+The simulation will make student  to understand and predict the behavior of while loops.Student will be able to write valid while loops.They will be able to describe and understand the condition part of while loops.They will get to know flow of execution for while loop.
 
 ##### 2.7 Equations/formulas: NA
 
