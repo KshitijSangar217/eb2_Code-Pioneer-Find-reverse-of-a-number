@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment 2 : Write a program to reverse of a number.
+Experiment 2 : Write a program to reverse a number.
 
 ### 1. Story Outline:
 To find the reverse of number "While loop" is used.The reverse of number is obtained with the help of remainder and modulo division operator using while loop. 
