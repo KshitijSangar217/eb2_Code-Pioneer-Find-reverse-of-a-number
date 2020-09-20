@@ -1,8 +1,10 @@
-This folder has 
 ### Aim
 Write C program to reverse a number. 
+
 ### Theory
-While loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while construct consists of a block of code and a condition/expression. The condition/expression is evaluated, and if the condition/expression is true, the code within all of their following in the block is executed. This repeats until the condition/expression becomes false. Because the while loop checks the condition/expression before the block is executed, the control structure is often also known as a pre-test loop.It is one of way which gives the learner a deep understanding of While loop and the Arithmetic operators.
+
+In C different loops are used for controlling flow of program.For finding reverse of a number in the program while loop is used.The While loop is generally have condition and block of statements.In while loop the condition is checked and if given boolean condition is true,the block of statements will get executed.This will be repeated until condition becomes false.If the condition becomes false it will exit and execute false part.In the program to find reverse of a number, we have used while(number>0) loop with condition i.e. till number is greater than 0, then the code of block statements executes which contains statements for finding of remainder and adding remainder to "reverse_Number" variable  which is initialzed as 0 in the begining and again taking modulo 10 division of number.This block of statements will be excuted repeatedly till condition given in the while loop is true. 
+
 
 <b>Pseudocode</b>
 1. Declare three variables to store number, remainder, and reversed number and set all variables to 0.
@@ -14,6 +16,7 @@ While loop is a control flow statement that allows code to be executed repeatedl
 7. Add remainder to reversed number.
 8. Divide the number by 10.
 9. Print the reversed number.
+
 ### Procedure
 1.Click on the button “START”. It takes to simulation screen.<br>
 2."START" button will changed to "Next" button,Program Code will appear in Code block and Variable names "Number","Remainder","Reverse_Number" with initialzed value to zero in right block will appear.<br>
