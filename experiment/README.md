@@ -16,7 +16,7 @@ In C different loops are used for controlling flow of program. For finding rever
 8. Divide the number by 10.
 9. Print the reversed number.
 
-### 3. Flowchart 
+### Flowchart 
 <img src="/experiment/REV_NUM.jpg"/><br><br>
 
 
