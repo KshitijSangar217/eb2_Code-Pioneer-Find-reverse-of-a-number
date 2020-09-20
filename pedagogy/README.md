@@ -19,7 +19,7 @@
 
 <a name="LO"></a></b>
 #### 1. Focus Area : Reinforce theoretical concept
-The students know the concept of application of modulo operater and loops. They will experiment the logic written in the code by applying the input, trial and error, and learn from it. Finally analyzing the results with standard values.
+The students know the concept of application of modulo operater and loops. They will experiment the logic written in the code by applying the input, trial and error, and learn from it. Finally understanding the results with standard values.
 
 #### 2. Learning Objectives and Cognitive Level
 
