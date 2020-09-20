@@ -17,7 +17,7 @@ In C different loops are used for controlling flow of program. For finding rever
 9. Print the reversed number.
 
 ### Flowchart 
-<img src="/experiment/REV_NUM.jpg"/><br><br>
+<img src="/experiment/images/reverse_flowchart.JPG"/><br><br>
 
 
 
