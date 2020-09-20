@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment 2 : write a program to reverse a number
+Experiment 2 : Write a program to reverse of a number.
 
 ### 1. Story Outline:
 To find the reverse of number "While loop" is used.The reverse of number is obtained with the help of remainder and modulo division operator using while loop. 
@@ -19,9 +19,9 @@ When the student visits the link of the simulator page, he sees canvas of screen
 
 
 #### 2.3 Set the Pathway Activities:
--The simulator will show step by step execution of program for every line of code by displaying comments explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
+- The simulator will show step by step execution of program for every line of code by displaying comments explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
 
--As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.The changes in values of variables also shown by highlighting the border of boxes in the simulator.
+- As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.The changes in values of variables also shown by highlighting the border of boxes in the simulator.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
