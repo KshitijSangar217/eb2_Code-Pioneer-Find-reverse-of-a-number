@@ -6,12 +6,16 @@ Experiment 2 : Write a program to reverse a number.
 To find the reverse of the number "While loop" is used. The reverse of the number is obtained with the help of the remainder and modulo division operator using a while loop.
 
 ### 2. Story:
+<div align="justify">
+After the simulation starts, the student will see the code. The student will start execution while executing it shows a message to the user about every statement. when scanf statement executes user will input a number.It is stored in variable "num".To reverse the number, while loop is executed in loop to get last digit modulo division the number by 10 i.e. lastDigit = num % 10 will be executed. Then the while loop is used until the number is greater than. In each iteration of the loop, the remainder when the number is divided by 10 is calculated and the value of the number is reduced by 10 times.Inside the loop, the reversed number is computed using:rev = rev*10 + remainder. 
+</div>
 
-After the simulation starts, the student will see the code. The student will start execution while executing it shows a message to the user about every statement. when scanf statement executes user will input a number.It is stored in variable "num".To reverse the number, while loop is executed in loop to get last digit modulo division the number by 10 i.e. lastDigit = num % 10 will be executed. Then the while loop is used until the number is greater than. In each iteration of the loop, the remainder when the number is divided by 10 is calculated and the value of the number is reduced by 10 times.Inside the loop, the reversed number is computed using:rev = rev*10 + remainder.
 
 #### 2.1 Set the Visual Stage Description:
+<div align="justify">
+The screen is divided into two blocks, one for code execution and other for output Functioning. At the top of the page, there are two buttons named "START" / "NEXT" and "RESET". An input box will appear on the line, where the input statement is written in the code block. The changes are displayed in the execution section.
+</div>
 
-When the student visits the link of the simulator page, he sees a canvas of screen size (light orange shade) with the title in the top center "REVERSE OF NUMBER ". On this canvas, START button is seen to start the program. Once the START button is clicked button will be turned to the "NEXT" button.  The screen is divided into two blocks one for code execution and Output Functioning. when the user clicks on the "NEXT" execution will start and when scanf statement is reached input box will be shown in front of the input statement. After giving input and clicking SUBMIT, it will change to the "NEXT" button again. In the Output Functioning box, the values of variables "Reverse Number", "Remainder" and "Number" will be displayed. The code will appear on the code execution block on the left side.
 
 #### 2.2 Set User Objectives & Goals:
 1. To understand application of while loop in program.How while loop executes when condition will be true and false.
@@ -19,9 +23,12 @@ When the student visits the link of the simulator page, he sees a canvas of scre
 
 
 #### 2.3 Set the Pathway Activities:
+<div align="justify">
 - The simulator will show step by step execution of program for every line of code by displaying comments explaining use of each line. The changing values of variables are shown with every excuted statement in code to get clear understanding of the c program written using while loop.
 
-- As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.The changes in values of variables also shown by highlighting the border of boxes in the simulator.
+- As the while loop get excuted simulator shows the excution of while loop when condition is true and how it will excute when it will be false. So it will make student understand application of while loop in the program.The changes in values of variables also shown by highlighting the border of boxes in the simulator.  
+</div>
+
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
