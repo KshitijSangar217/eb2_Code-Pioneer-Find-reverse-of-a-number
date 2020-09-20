@@ -3,9 +3,7 @@ Write C program to reverse a number.
 
 ### Theory
 
-In C different loops are used for controlling flow of program.For finding reverse of a number in the program while loop is used.The While loop is generally have condition and block of statements.In while loop the condition is checked and if given boolean condition is true,the block of statements will get executed.This will be repeated until condition becomes false.If the condition becomes false it will exit and execute false part.In the program to find reverse of a number, we have used while(number>0) loop with condition i.e. till number is greater than 0, then the code of block statements executes which contains statements for finding of remainder and adding remainder to "reverse_Number" variable  which is initialized as 0 in the begining and again taking modulo 10 division of number.This block of statements will be excuted repeatedly till condition given in the while loop is true. 
-### 3. Flowchart 
-<img src="/experiment/REV_NUM.jpg"/><br><br>
+In C different loops are used for controlling flow of program. For finding reverse of a number in the program while loop is used.The While loop is generally have condition and block of statements. In while loop the condition is checked and if given boolean condition is true, the block of statements will get executed. This will be repeated until condition becomes false. If the condition becomes false it will exit the loop and further execution of program is done. In the program to find reverse of a number, we have used while(number>0) loop with condition i.e. till number is greater than 0, then the code of block statements executes which contains statements for finding of remainder and adding remainder to "reverse_Number" variable  which is initialized as 0 in the begining and again taking modulo 10 division of number. This block of statements will be excuted repeatedly till condition given in the while loop is true. 
 
 <b>Pseudocode</b>
 1. Declare three variables to store number, remainder, and reversed number and set all variables to 0.
@@ -17,6 +15,11 @@ In C different loops are used for controlling flow of program.For finding revers
 7. Add remainder to reversed number.
 8. Divide the number by 10.
 9. Print the reversed number.
+
+### 3. Flowchart 
+<img src="/experiment/REV_NUM.jpg"/><br><br>
+
+
 
 ### Procedure
 1.Click on the button “START”. It takes to simulation screen.<br>
